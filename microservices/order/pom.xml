@@ -70,7 +70,6 @@
         <dependency>
             <groupId>io.micrometer</groupId>
             <artifactId>micrometer-registry-otlp</artifactId>
-
         </dependency>
 	</dependencies>
 
